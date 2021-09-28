@@ -49,5 +49,3 @@ class CpfValidator {
 
 const cpf = new CpfValidator('');
 cpf.isCpfValid();
-
-
