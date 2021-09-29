@@ -47,4 +47,4 @@ class CpfValidator {
 const cpf = new CpfValidator('');
 console.log(cpf.isCpfValid());
 
-console.log('someth8ing');
+console.log('outracoisa');

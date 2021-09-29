@@ -47,5 +47,5 @@ class CpfValidator {
 }
     
 
-const cpf = new CpfValidator('');
+const cpf = new CpfValidator('56498732198teste');
 cpf.isCpfValid();
